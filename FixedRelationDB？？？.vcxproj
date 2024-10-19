@@ -130,15 +130,16 @@
     <ClInclude Include="Any.h" />
     <ClInclude Include="FixedVector.h" />
     <ClInclude Include="MemoryAllocator.h" />
-    <ClInclude Include="ReletionDB.h" />
+    <ClInclude Include="FixedReletionDB.h" />
     <ClInclude Include="SurfaceT.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Any.cpp" />
     <ClCompile Include="FixedVector.cpp" />
     <ClCompile Include="MemoryAllocator.cpp" />
-    <ClCompile Include="ReletionDB.cpp" />
+    <ClCompile Include="FixedReletionDB.cpp" />
     <ClCompile Include="SurfaceT.cpp" />
+    <ClCompile Include="ソース.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,7 +18,7 @@
     <ClInclude Include="FixedVector.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="ReletionDB.h">
+    <ClInclude Include="FixedReletionDB.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
     <ClInclude Include="SurfaceT.h">
@@ -35,7 +35,7 @@
     <ClCompile Include="FixedVector.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="ReletionDB.cpp">
+    <ClCompile Include="FixedReletionDB.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="SurfaceT.cpp">
@@ -45,6 +45,9 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="Any.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ソース.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
